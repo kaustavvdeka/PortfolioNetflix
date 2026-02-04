@@ -211,15 +211,15 @@ const Hero = () => {
             {/* Title */}
             <div className="space-y-2 perspective-1200">
               <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black leading-tight">
-                <span className="hero-title-word inline-block">Creative</span>{' '}
-                <span className="hero-title-word inline-block text-gradient">Developer</span>
+                <span className="hero-title-word inline-block">Kaustav</span>{' '}
+                <span className="hero-title-word inline-block text-gradient">Mani </span>{' '}
+                <span className="hero-title-word inline-block">Deka</span>{' '}
               </h1>
             </div>
 
             {/* Subtitle */}
             <p className="hero-subtitle text-lg sm:text-xl text-gray-300 max-w-xl leading-relaxed">
-              Crafting digital experiences that captivate, engage, and inspire. 
-              I transform ideas into immersive web realities with cutting-edge technology.
+              Building high-performance digital products that bridge the gap between bold ideas and user-centric reality.
             </p>
 
             {/* CTA Buttons */}
@@ -243,15 +243,15 @@ const Hero = () => {
             {/* Stats */}
             <div className="hero-cta flex gap-8 pt-4">
               <div>
-                <div className="text-3xl font-bold text-[#E50914]">50+</div>
+                <div className="text-3xl font-bold text-[#E50914]">15+</div>
                 <div className="text-sm text-gray-400">Projects</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-[#E50914]">5+</div>
+                <div className="text-3xl font-bold text-[#E50914]">1+</div>
                 <div className="text-sm text-gray-400">Years Exp.</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-[#E50914]">30+</div>
+                <div className="text-3xl font-bold text-[#E50914]">4+</div>
                 <div className="text-sm text-gray-400">Clients</div>
               </div>
             </div>
@@ -269,7 +269,7 @@ const Hero = () => {
               {/* Image Container */}
               <div className="relative rounded-3xl overflow-hidden border-2 border-white/10 shadow-2xl transform transition-transform duration-500 hover:scale-[1.02] hover:rotate-y-5">
                 <img
-                  src="/hero-profile.jpg"
+                  src="/hero-profile.jpeg"
                   alt="Profile"
                   className="w-full h-auto object-cover"
                 />
